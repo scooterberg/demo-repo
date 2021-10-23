@@ -1,3 +1,3 @@
 # demo-repo
 
-demo for git hub tutorial
+demo for git hub tutorial!
